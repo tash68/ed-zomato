@@ -1,0 +1,76 @@
+#signupContainer {
+    /* border: 1px solid red; */
+    width: 350px;
+    height: 530px;
+    padding: 10px;
+    /* display: flex; */
+    justify-content: center;
+    /* height: 550px;
+    width: 35%; */
+    box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+    padding-top: 30px;
+    border-radius: 10px;
+    background-color: white;
+  }
+  .signupInputs > input {
+    padding: 10px;
+    margin: 10px;
+    width: 250px;
+  }
+  
+  .signupCheckInputs {
+    display: flex;
+    margin: 5px;
+  }
+  
+  #line {
+    width: 270px;
+    margin-left: 40px;
+    display: flex;
+  }
+  
+  #line hr {
+    width: 120px;
+  }
+  input[type="checkbox"] {
+    margin-left: 35px;
+    background: white;
+  }
+  
+  input[type="checkbox"]:checked {
+    background: red;
+    color: white;
+  }
+  
+  .btn input {
+    padding: 10px;
+    margin: 10px;
+    width: 270px;
+    background-color: white;
+    border: gray 0.5px solid;
+  }
+  
+  #signupLable {
+    /* border: #ef4f5f 1px solid; */
+    width: 260px;
+  }
+  
+  #lable {
+    margin-left: 10px;
+    font-size: 15px;
+  }
+  .para {
+    padding: 5px;
+    font-size: 20px;
+  }
+  a {
+    text-decoration: none;
+    color: #ef4f5f;
+  }
+  .main {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }

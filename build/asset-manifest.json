@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Zomato-ed/static/css/main.20b4e242.css",
+    "main.js": "/Zomato-ed/static/js/main.9d040124.js",
+    "static/js/512.b26a5dd5.chunk.js": "/Zomato-ed/static/js/512.b26a5dd5.chunk.js",
+    "static/media/howbg.png": "/Zomato-ed/static/media/howbg.ae1f6f45756763ca6d83.png",
+    "static/media/header_img.jpg": "/Zomato-ed/static/media/header_img.456361b450f3f40eeacc.jpg",
+    "static/media/Astore.png": "/Zomato-ed/static/media/Astore.ac4dbee26aaeede5245e.png",
+    "static/media/gplay.png": "/Zomato-ed/static/media/gplay.e2bbe8ebd920e08bff9e.png",
+    "static/media/strtj.jpg": "/Zomato-ed/static/media/strtj.f92c77c530142b015296.jpg",
+    "static/media/bgresfn.jpg": "/Zomato-ed/static/media/bgresfn.a274cc176fed95288fe6.jpg",
+    "index.html": "/Zomato-ed/index.html",
+    "main.20b4e242.css.map": "/Zomato-ed/static/css/main.20b4e242.css.map",
+    "main.9d040124.js.map": "/Zomato-ed/static/js/main.9d040124.js.map",
+    "512.b26a5dd5.chunk.js.map": "/Zomato-ed/static/js/512.b26a5dd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20b4e242.css",
+    "static/js/main.9d040124.js"
+  ]
+}

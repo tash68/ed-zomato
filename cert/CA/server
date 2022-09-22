@@ -1,0 +1,14 @@
+var WebpackDevServer = require('webpack-dev-server');
+
+new WebpackDevServer(webpack(WebpackDevConfig), {
+    https: true,
+    hot: true,
+    watch: true,
+    contentBase: path.join(__dirname, 'src'),
+    historyApiFallback: true
+}).listen(3000, 'localhost', function(err, result) {
+    if (err) {
+        console.log(err);
+    }
+    console.log('Dev server running at https://localhost:3000');
+});

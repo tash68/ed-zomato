@@ -1,0 +1,92 @@
+#signinContainer {
+    /* border: 1px solid red; */
+    width: 350px;
+    height: 430px;
+    padding: 10px;
+    justify-content: center;
+    /* height: 550px;
+    width: 35%; */
+    box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+    padding-top: 30px;
+    border-radius: 10px;
+  }
+  .signinInputs > input {
+    padding: 10px;
+    margin: 10px;
+    width: 250px;
+  }
+  
+  .btn input {
+    padding: 10px;
+    margin: 10px;
+    width: 275px;
+    background-color: white;
+    border: gray 0.5px solid;
+  }
+  
+  .btn1 input {
+    padding: 10px 10px 10px 6px;
+    margin: 10px 10px 10px 0px;
+    width: 300px;
+    background-color: white;
+    border: gray 0.5px solid;
+  }
+  
+  .para {
+    padding: 5px;
+    font-size: 20px;
+  }
+  a {
+    text-decoration: none;
+    color: #ef4f5f;
+  }
+  
+  #phoneContainer {
+    /* border: 1px solid red; */
+    width: 350px;
+    height: 380px;
+    padding: 10px;
+    justify-content: center;
+    /* height: 550px;
+    width: 35%; */
+    box-shadow: 11px 12px 13px 12px rgb(207, 207, 207);
+    padding-top: 30px;
+    border-radius: 10px;
+  }
+  
+  .emailPhoneInputs input[type="tel"] {
+    border-left: 0.3px solid rgb(75, 71, 71);
+    border-bottom: none;
+    border-top: none;
+    border-right: none;
+    padding: 5px;
+    margin: 5px;
+  }
+  
+  .emailPhoneInputs input:focus,
+  select:focus,
+  textarea:focus,
+  button:focus {
+    outline: none;
+  }
+  
+  .phoneInputs > input {
+    padding: 10px;
+    margin: 10px 10px 10px 5px;
+    width: 294px;
+  }
+  
+  .inputDiv {
+    border: 2px solid #ef4f5f;
+    padding: 5px;
+    border-radius: 6px;
+    margin: 5px;
+  }
+  
+  .main {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
