@@ -34,6 +34,7 @@ export const Exploth = () =>{
                         <p>Subway</p>
                         <p>Domino's</p>
                         <p>Dunkin's</p> 
+                        <p>California burrito</p>
                     </div>
                 </div>
                 <div className="exp-ains1">
