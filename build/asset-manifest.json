@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Zomato-ed/static/css/main.20b4e242.css",
-    "main.js": "/Zomato-ed/static/js/main.9d040124.js",
-    "static/js/512.b26a5dd5.chunk.js": "/Zomato-ed/static/js/512.b26a5dd5.chunk.js",
-    "static/media/howbg.png": "/Zomato-ed/static/media/howbg.ae1f6f45756763ca6d83.png",
-    "static/media/header_img.jpg": "/Zomato-ed/static/media/header_img.456361b450f3f40eeacc.jpg",
-    "static/media/Astore.png": "/Zomato-ed/static/media/Astore.ac4dbee26aaeede5245e.png",
-    "static/media/gplay.png": "/Zomato-ed/static/media/gplay.e2bbe8ebd920e08bff9e.png",
-    "static/media/strtj.jpg": "/Zomato-ed/static/media/strtj.f92c77c530142b015296.jpg",
-    "static/media/bgresfn.jpg": "/Zomato-ed/static/media/bgresfn.a274cc176fed95288fe6.jpg",
-    "index.html": "/Zomato-ed/index.html",
-    "main.20b4e242.css.map": "/Zomato-ed/static/css/main.20b4e242.css.map",
-    "main.9d040124.js.map": "/Zomato-ed/static/js/main.9d040124.js.map",
-    "512.b26a5dd5.chunk.js.map": "/Zomato-ed/static/js/512.b26a5dd5.chunk.js.map"
+    "main.css": "/ed-zomato/static/css/main.5707d3c2.css",
+    "main.js": "/ed-zomato/static/js/main.4a8c4e41.js",
+    "static/js/787.05fd2d46.chunk.js": "/ed-zomato/static/js/787.05fd2d46.chunk.js",
+    "static/media/howbg.png": "/ed-zomato/static/media/howbg.ae1f6f45756763ca6d83.png",
+    "static/media/header_img.jpg": "/ed-zomato/static/media/header_img.456361b450f3f40eeacc.jpg",
+    "static/media/Astore.png": "/ed-zomato/static/media/Astore.ac4dbee26aaeede5245e.png",
+    "static/media/gplay.png": "/ed-zomato/static/media/gplay.e2bbe8ebd920e08bff9e.png",
+    "static/media/strtj.jpg": "/ed-zomato/static/media/strtj.f92c77c530142b015296.jpg",
+    "static/media/bgresfn.jpg": "/ed-zomato/static/media/bgresfn.a274cc176fed95288fe6.jpg",
+    "index.html": "/ed-zomato/index.html",
+    "main.5707d3c2.css.map": "/ed-zomato/static/css/main.5707d3c2.css.map",
+    "main.4a8c4e41.js.map": "/ed-zomato/static/js/main.4a8c4e41.js.map",
+    "787.05fd2d46.chunk.js.map": "/ed-zomato/static/js/787.05fd2d46.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20b4e242.css",
-    "static/js/main.9d040124.js"
+    "static/css/main.5707d3c2.css",
+    "static/js/main.4a8c4e41.js"
   ]
 }

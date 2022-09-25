@@ -1,50 +1,71 @@
 {
-    "name": "ed-zomato",
-    "version": "0.1.0",
-    "private": true,
-    "dependencies": {
-        "@testing-library/jest-dom": "^5.16.4",
-        "@testing-library/react": "^13.3.0",
-        "@testing-library/user-event": "^13.5.0",
-        "create-react-readme": "^1.0.7",
-        "react": "^18.2.0",
-        "react-dom": "^18.2.0",
-        "react-elastic-carousel": "^0.11.5",
-        "react-flagpack": "^1.2.0",
-        "react-grid-carousel": "^1.0.1",
-        "react-icons": "^4.4.0",
-        "react-responsive-carousel": "^3.2.23",
-        "react-router-dom": "^6.3.0",
-        "react-scripts": "^5.0.1",
-        "react-slick": "^0.29.0",
-        "style-components": "^0.1.0",
-        "web-vitals": "^2.1.4"
-    },
-    "scripts": {
-        "predeploy": "npm run build",
-        "deploy": "gh-pages -d build",
-        "start": "react-scripts start",
-        "build": "react-scripts build",
-        "test": "react-scripts test",
-        "eject": "react-scripts eject"
-    },
-    "eslintConfig": {
-        "extends": [
-            "react-app",
-            "react-app/jest"
-        ]
-    },
-    "browserslist": {
-        "production": [
-            ">0.2%",
-            "not dead",
-            "not op_mini all"
-        ],
-        "development": [
-            "last 1 chrome version",
-            "last 1 firefox version",
-            "last 1 safari version"
-        ]
-    },
-    "homepage": "https://tash68.github.io/Zomato-ed"
+  "name": "ed-zomato",
+  "version": "0.1.0",
+  "engines": {
+    "node": "18.x"
+  },
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "create-react-readme": "^1.0.7",
+    "gh-pages": "^4.0.0",
+    "node": "^16.17.1",
+    "npm": "^8.15.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-elastic-carousel": "^0.11.5",
+    "react-flagpack": "^1.2.0",
+    "react-grid-carousel": "^1.0.1",
+    "react-icons": "^4.4.0",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1",
+    "react-slick": "^0.29.0",
+    "style-components": "^0.1.0",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "heroku-prebuild": "echo This runs before Heroku installs dependencies.",
+    "heroku-postbuild": "echo This runs after Heroku installs dependencies, but before Heroku prunes and caches dependencies.",
+    "heroku-cleanup": "echo This runs after Heroku prunes and caches dependencies.",
+    "start": "react-scripts start",
+    "build": "ng build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "create-readme": "npm run create-react-readme ./package.json ./src/components/ ./readme.md -s ./setup_readme.md -u ./usage_readme.md -d ./dev_readme.md"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "homepage": "https://tash68.github.io/ed-zomato",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tash68/ed-zomato.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tash68/ed-zomato/issues"
+  }
 }
