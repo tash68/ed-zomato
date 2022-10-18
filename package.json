@@ -2,7 +2,7 @@
   "name": "ed-zomato",
   "version": "0.1.0",
   "engines": {
-    "node": "18.x"
+    "node": "18.6.0"
   },
   "private": true,
   "dependencies": {
@@ -10,6 +10,7 @@
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",
     "create-react-readme": "^1.0.7",
+    "firebase": "^9.11.0",
     "gh-pages": "^4.0.0",
     "node": "^16.17.1",
     "npm": "^8.15.0",
@@ -28,7 +29,7 @@
   },
   "scripts": {
     "heroku-prebuild": "echo This runs before Heroku installs dependencies.",
-    "heroku-postbuild":  "npm run build",
+    "heroku-postbuild": "npm run build",
     "heroku-cleanup": "echo This runs after Heroku prunes and caches dependencies.",
     "start": "react-scripts start",
     "build": "ng build",
@@ -57,7 +58,6 @@
   "homepage": "https://tash68.github.io/ed-zomato",
   "description": "",
   "main": "index.js",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tash68/ed-zomato.git"
